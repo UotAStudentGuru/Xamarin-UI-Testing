@@ -1,0 +1,9 @@
+c:\users\georg\documents\visual studio 2015\Projects\TestingXamarin\TestUI\bin\Debug\TestUI.dll
+c:\users\georg\documents\visual studio 2015\Projects\TestingXamarin\TestUI\bin\Debug\TestUI.pdb
+c:\users\georg\documents\visual studio 2015\Projects\TestingXamarin\TestUI\bin\Debug\nunit.framework.dll
+c:\users\georg\documents\visual studio 2015\Projects\TestingXamarin\TestUI\bin\Debug\Xamarin.UITest.dll
+c:\users\georg\documents\visual studio 2015\Projects\TestingXamarin\TestUI\bin\Debug\nunit.framework.xml
+c:\users\georg\documents\visual studio 2015\Projects\TestingXamarin\TestUI\bin\Debug\Xamarin.UITest.xml
+c:\users\georg\documents\visual studio 2015\Projects\TestingXamarin\TestUI\obj\Debug\TestUI.csprojResolveAssemblyReference.cache
+c:\users\georg\documents\visual studio 2015\Projects\TestingXamarin\TestUI\obj\Debug\TestUI.dll
+c:\users\georg\documents\visual studio 2015\Projects\TestingXamarin\TestUI\obj\Debug\TestUI.pdb
